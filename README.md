@@ -3,6 +3,6 @@
 
 <h3>Se desarrolla challenge de Alura next generation, amigo secreto</h3>
 
+<img src="Diseño sin título.gif" alt="Logo" width="150" height="150">
 
-![Logo](<Diseño sin título.gif>){ width=50px  height="50" }
 <h4>Dev. Romero Gonzalo</h4>
